@@ -1,5 +1,5 @@
 import {Component} from 'react'
-import TodoItem from '.simpleTodos/src/components/SimpleTodos'
+import TodoItem from './components/TodoItem'
 
 const initialTodoList = [
   {
